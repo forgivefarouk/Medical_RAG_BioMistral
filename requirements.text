@@ -1,0 +1,6 @@
+langchain==0.1.8
+langchain-community==0.0.21
+langchain-core==0.1.25
+sentence_transformers
+pypdf
+qdrant-client
